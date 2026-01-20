@@ -1,5 +1,3 @@
-# Kevin_Portofolio
-
 # [Project_1: Netflix Content Analysis](NetflixDashboard.pbix)
 
 This project is my first data analysis portfolio, focusing on exploring and analyzing Netflix content data.
